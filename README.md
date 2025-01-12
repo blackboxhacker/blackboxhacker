@@ -7,8 +7,8 @@
 - ⚡ Fun fact: ...
 
 - 🎓 Education:
-  Master's Degree in Data Science from Eastern University
-  Bachelor's Degree in Sociology from University of Houston-Downtown
+- - Master's Degree in Data Science from Eastern University
+  - - Bachelor's Degree in Sociology from University of Houston-Downtown
 
 - 📑 Certificaations:
   AWS Certified Machine Learning Specialty
