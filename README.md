@@ -6,7 +6,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
-<!---
-blackboxhacker/blackboxhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 Education:
+  Master's Degree in Data Science from Eastern University
+  Bachelor's Degree in Sociology from University of Houston-Downtown
+
+- 📑 Certificaations:
+  AWS Certified Machine Learning Specialty
+  Microsoft Certified: Azure Data Scientist Associate (expired)
