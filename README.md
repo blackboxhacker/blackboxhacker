@@ -16,4 +16,5 @@
 
 - 📝 Publications:
   - Dixon, N., Goggins, M., Ho, E., Howison, M., Long, J., Northcott, E., Shen, K., & Yeats, C. (2023). Occupational models from 42 million unstructured job postings. In Patterns (Vol. 4, Issue 7, p. 100757). Elsevier BV. https://doi.org/10.1016/j.patter.2023.100757
+  - Dixon, N. (2022). Detecting gender bias in pre-trained language models for zero-shot text classification [Poster Abstract]. Black in AI Workshop at NeurIPS, New Orleans, LA, United States. 
  
